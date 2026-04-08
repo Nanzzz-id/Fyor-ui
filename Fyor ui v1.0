@@ -2753,3 +2753,5 @@ CreateSocialCard(AboutTab.Scroll, "Discord", "nanzzz.js",                       
 CreateSocialCard(AboutTab.Scroll, "YouTube", "https://youtube.com/@nanzzz",        "youtube")
 
 WindUI:Notify("fyor UI", "Successfully loaded. Welcome back.", 4)
+
+return WindUI
